@@ -1,0 +1,12 @@
+:root {
+    /* Colours */
+    --color-text: #3b456e;
+    --color-primary: #ffc8dd;
+    --color-secondary: #cdb4dbcc;
+    --color-dark: #ffafcc;
+    --color-bg: white;
+  
+    /* Fonts */
+    --font-roboto: "Playwrite NG Modern", cursive;
+  }
+  
